@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+
+body{
+  
+    background-color:lightgreen;
+ }
+
+h1 { font-size: 4em;text-align: center; }
+
+footer {font-size: 2ex;margin-top: 100%;margin-left: 1rem;}
+
+header{
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 800;
+    min-height: auto;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    List-style-type: none;
+}
+
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: fit-content;
+    width: 10em;
+   
+  }
+  
+
+  .un{
+      margin: 0rem;
+      padding: 0rem;
+
+  }
+
+
+.deux{
+    margin: 0;
+      padding: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
